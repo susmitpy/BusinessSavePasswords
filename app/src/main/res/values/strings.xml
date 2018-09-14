@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Business-Save Passwords</string>
+
+    <string name="info1">No. of incorrect attempts left</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="new_entry">New Entry</string>
+    <string name="search">Search</string>
+    <string name="change_entry">Change Entry</string>
+    <string name="FOR">FOR</string>
+    <string name="tip">Type Here</string>
+    <string name="change_existing">Change Existing</string>
+    <string name="save">Save</string>
+    <string name="empty">Cannot Be Empty</string>
+    <string name="done">Success!</string>
+    <string name="wait">Kindly Wait For 1 Minute for trying again</string>
+    <string name="Register">Register</string>
+    <string name="passinfo1">Only Digits</string>
+    <string name="pasinfo2">Type The Password Correctly!!</string>
+    <string name="already">%s Already Exists!</string>
+    <string name="forget_npassword">Forget\nMPin</string>
+    <string name="secret_answer">Secret Answer</string>
+    <string name="sq">Secret Question</string>
+    <string name="type_answer">Type The Answer</string>
+    <string name="noEntry">No Existing Entry for %s</string>
+    <string name="nf">NOT FOUND</string>
+    <string name="delete">DELETE</string>
+    <string name="delconf">Do you really want to delete entry for %s</string>
+    <string name="typempin">Type The MPin</string>
+    <string name="change_mpin">Save New\nMPIN</string>
+
+
+</resources>

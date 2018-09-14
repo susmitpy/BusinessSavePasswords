@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "760029433328",
+    "firebase_url": "https://save-passwprds-for-business.firebaseio.com",
+    "project_id": "save-passwprds-for-business",
+    "storage_bucket": "save-passwprds-for-business.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760029433328:android:f030efc688388cd9",
+        "android_client_info": {
+          "package_name": "e.susmit.business_savepasswords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760029433328-01gpm8tid4i0958bc9nn4firhn7vqk67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.susmit.business_savepasswords",
+            "certificate_hash": "7d3e132f16ac0941ca60924058c40b795469a9a3"
+          }
+        },
+        {
+          "client_id": "760029433328-9bcn42ovslv9tvatmtnpb6oafrpjk4q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6RbMXPIYYRzQZn_Lhw0toPlNa4lvknFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760029433328-9bcn42ovslv9tvatmtnpb6oafrpjk4q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
